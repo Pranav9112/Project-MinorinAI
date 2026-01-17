@@ -1,0 +1,127 @@
+
+[
+  {
+    "question": "What were the main causes of the French Revolution?",
+    "reference": "The French Revolution was caused by social inequality, financial crisis, heavy taxation, and the absolute monarchy of France.",
+    "student_answer": "The revolution happened because of inequality and financial problems in France.",
+    "score": 4
+  },
+  {
+    "question": "What were the main causes of the French Revolution?",
+    "reference": "The French Revolution was caused by social inequality, financial crisis, heavy taxation, and the absolute monarchy of France.",
+    "student_answer": "It happened because people were unhappy.",
+    "score": 2
+  },
+  {
+    "question": "What were the main causes of the French Revolution?",
+    "reference": "The French Revolution was caused by social inequality, financial crisis, heavy taxation, and the absolute monarchy of France.",
+    "student_answer": "It started because of wars with other countries.",
+    "score": 1
+  },
+
+  {
+    "question": "What is meant by social inequality in France before 1789?",
+    "reference": "Social inequality referred to unequal privileges enjoyed by the clergy and nobility, while the Third Estate bore heavy taxes.",
+    "student_answer": "The clergy and nobility had privileges while common people paid taxes.",
+    "score": 5
+  },
+  {
+    "question": "What is meant by social inequality in France before 1789?",
+    "reference": "Social inequality referred to unequal privileges enjoyed by the clergy and nobility, while the Third Estate bore heavy taxes.",
+    "student_answer": "Some people were richer than others.",
+    "score": 2
+  },
+
+  {
+    "question": "What was the role of taxation in causing the French Revolution?",
+    "reference": "Heavy taxation on the Third Estate while the clergy and nobility were exempt contributed to widespread dissatisfaction.",
+    "student_answer": "Taxes were heavy on common people and made them angry.",
+    "score": 4
+  },
+  {
+    "question": "What was the role of taxation in causing the French Revolution?",
+    "reference": "Heavy taxation on the Third Estate while the clergy and nobility were exempt contributed to widespread dissatisfaction.",
+    "student_answer": "Taxes were fair for everyone.",
+    "score": 0
+  },
+
+  {
+    "question": "Who were the members of the Third Estate?",
+    "reference": "The Third Estate consisted of peasants, workers, and the middle class, forming the majority of the French population.",
+    "student_answer": "The Third Estate included peasants, workers and the middle class.",
+    "score": 5
+  },
+  {
+    "question": "Who were the members of the Third Estate?",
+    "reference": "The Third Estate consisted of peasants, workers, and the middle class, forming the majority of the French population.",
+    "student_answer": "The Third Estate was made of nobles.",
+    "score": 0
+  },
+
+  {
+    "question": "What was the significance of the fall of the Bastille?",
+    "reference": "The fall of the Bastille symbolized the end of royal tyranny and marked the beginning of the French Revolution.",
+    "student_answer": "It showed the end of the king’s power and the start of the revolution.",
+    "score": 5
+  },
+  {
+    "question": "What was the significance of the fall of the Bastille?",
+    "reference": "The fall of the Bastille symbolized the end of royal tyranny and marked the beginning of the French Revolution.",
+    "student_answer": "A prison was destroyed in Paris.",
+    "score": 2
+  },
+
+  {
+    "question": "What did the Declaration of the Rights of Man state?",
+    "reference": "The Declaration stated that all men are born free and equal in rights and emphasized liberty, equality, and fraternity.",
+    "student_answer": "It said people are born free and equal and have rights.",
+    "score": 4
+  },
+  {
+    "question": "What did the Declaration of the Rights of Man state?",
+    "reference": "The Declaration stated that all men are born free and equal in rights and emphasized liberty, equality, and fraternity.",
+    "student_answer": "It supported the king.",
+    "score": 0
+  },
+
+  {
+    "question": "What was meant by absolute monarchy?",
+    "reference": "Absolute monarchy was a system where the king held unlimited power and was not bound by laws or a constitution.",
+    "student_answer": "It meant the king had unlimited power.",
+    "score": 5
+  },
+  {
+    "question": "What was meant by absolute monarchy?",
+    "reference": "Absolute monarchy was a system where the king held unlimited power and was not bound by laws or a constitution.",
+    "student_answer": "It was a democratic system.",
+    "score": 0
+  },
+
+  {
+    "question": "Why did the Third Estate oppose the Old Regime?",
+    "reference": "The Third Estate opposed the Old Regime due to heavy taxation, lack of political rights, and social inequality.",
+    "student_answer": "They were taxed heavily and had no political power.",
+    "score": 4
+  },
+  {
+    "question": "Why did the Third Estate oppose the Old Regime?",
+    "reference": "The Third Estate opposed the Old Regime due to heavy taxation, lack of political rights, and social inequality.",
+    "student_answer": "They liked the system.",
+    "score": 0
+  },
+
+  {
+    "question": "What role did the middle class play in the revolution?",
+    "reference": "The middle class provided leadership and ideas for reform and equality during the French Revolution.",
+    "student_answer": "The middle class led reforms and demanded equality.",
+    "score": 5
+  },
+  {
+    "question": "What role did the middle class play in the revolution?",
+    "reference": "The middle class provided leadership and ideas for reform and equality during the French Revolution.",
+    "student_answer": "They did not participate.",
+    "score": 0
+  }
+]
+
+
