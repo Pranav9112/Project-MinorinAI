@@ -1,0 +1,131 @@
+[
+  {
+    "question": "What was the Estates General?",
+    "reference": "The Estates General was a political body in France representing the three estates: clergy, nobility, and common people. It was called by the king to discuss matters such as taxation.",
+    "student_answer": "The Estates General was an assembly of the three estates called by the French king.",
+    "score": 4
+  },
+  {
+    "question": "What was the Estates General?",
+    "reference": "The Estates General was a political body in France representing the three estates: clergy, nobility, and common people. It was called by the king to discuss matters such as taxation.",
+    "student_answer": "It was a meeting of representatives from different social groups in France.",
+    "score": 3
+  },
+  {
+    "question": "What was the Estates General?",
+    "reference": "The Estates General was a political body in France representing the three estates: clergy, nobility, and common people. It was called by the king to discuss matters such as taxation.",
+    "student_answer": "The Estates General was a parliament that ruled France.",
+    "score": 2
+  },
+  {
+    "question": "What was the Estates General?",
+    "reference": "The Estates General was a political body in France representing the three estates: clergy, nobility, and common people. It was called by the king to discuss matters such as taxation.",
+    "student_answer": "It was a religious group.",
+    "score": 0
+  },
+
+  {
+    "question": "Who were the three estates in French society?",
+    "reference": "French society before the revolution was divided into three estates: the clergy, the nobility, and the common people.",
+    "student_answer": "The three estates were clergy, nobility and common people.",
+    "score": 5
+  },
+  {
+    "question": "Who were the three estates in French society?",
+    "reference": "French society before the revolution was divided into three estates: the clergy, the nobility, and the common people.",
+    "student_answer": "They were rich people, poor people and soldiers.",
+    "score": 1
+  },
+
+  {
+    "question": "Why was the Estates General called in 1789?",
+    "reference": "The Estates General was called in 1789 to address the financial crisis faced by France, mainly due to heavy taxation and war expenses.",
+    "student_answer": "It was called because France was facing financial problems.",
+    "score": 4
+  },
+  {
+    "question": "Why was the Estates General called in 1789?",
+    "reference": "The Estates General was called in 1789 to address the financial crisis faced by France, mainly due to heavy taxation and war expenses.",
+    "student_answer": "It was called for celebration.",
+    "score": 0
+  },
+
+  {
+    "question": "What was the Tennis Court Oath?",
+    "reference": "The Tennis Court Oath was a pledge taken by members of the Third Estate to not disperse until a constitution was drafted for France.",
+    "student_answer": "It was an oath taken by the Third Estate to draft a constitution.",
+    "score": 5
+  },
+  {
+    "question": "What was the Tennis Court Oath?",
+    "reference": "The Tennis Court Oath was a pledge taken by members of the Third Estate to not disperse until a constitution was drafted for France.",
+    "student_answer": "It was a game played by nobles.",
+    "score": 0
+  },
+
+  {
+    "question": "What was the Bastille?",
+    "reference": "The Bastille was a fortress prison in Paris that symbolized royal authority and oppression.",
+    "student_answer": "The Bastille was a prison in Paris.",
+    "score": 3
+  },
+  {
+    "question": "What was the Bastille?",
+    "reference": "The Bastille was a fortress prison in Paris that symbolized royal authority and oppression.",
+    "student_answer": "It represented the king’s power and was attacked in 1789.",
+    "score": 4
+  },
+
+  {
+    "question": "What was the Old Regime?",
+    "reference": "The Old Regime refers to the political and social system in France before the French Revolution.",
+    "student_answer": "The Old Regime was the system of rule before the French Revolution.",
+    "score": 5
+  },
+  {
+    "question": "What was the Old Regime?",
+    "reference": "The Old Regime refers to the political and social system in France before the French Revolution.",
+    "student_answer": "It was a new government.",
+    "score": 0
+  },
+
+  {
+    "question": "Who led France during the French Revolution?",
+    "reference": "France was ruled by King Louis XVI at the beginning of the French Revolution.",
+    "student_answer": "France was ruled by King Louis XVI.",
+    "score": 5
+  },
+  {
+    "question": "Who led France during the French Revolution?",
+    "reference": "France was ruled by King Louis XVI at the beginning of the French Revolution.",
+    "student_answer": "Napoleon ruled France during the revolution.",
+    "score": 1
+  },
+
+  {
+    "question": "What was the role of the Third Estate?",
+    "reference": "The Third Estate represented the common people and played a major role in demanding political equality.",
+    "student_answer": "The Third Estate demanded equality and represented common people.",
+    "score": 5
+  },
+  {
+    "question": "What was the role of the Third Estate?",
+    "reference": "The Third Estate represented the common people and played a major role in demanding political equality.",
+    "student_answer": "They collected taxes.",
+    "score": 1
+  },
+
+  {
+    "question": "What is meant by constitutional monarchy?",
+    "reference": "A constitutional monarchy is a system in which the king's powers are limited by a constitution.",
+    "student_answer": "It means the king’s powers are limited by a constitution.",
+    "score": 5
+  },
+  {
+    "question": "What is meant by constitutional monarchy?",
+    "reference": "A constitutional monarchy is a system in which the king's powers are limited by a constitution.",
+    "student_answer": "The king has unlimited power.",
+    "score": 0
+  }
+
+]
